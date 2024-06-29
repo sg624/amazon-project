@@ -1,0 +1,75 @@
+h1{
+  text-align: center;
+}
+
+.d1{
+  border:gray solid 1px;
+  text-align: center;
+  width:350px;
+  font-family: Arial;
+  margin: 0 auto;
+}
+
+.p1{
+  text-align: left;
+  margin-left: 10px;
+  font-size: 30px;
+}
+
+#sec-1{
+  text-align: left;
+  margin-left: 10px;
+}
+
+.edit{
+  font-size:10px;
+  font-weight:bold;
+}
+
+.s1{
+  color:rgb(8, 129, 205);
+}
+
+#continue-btn{
+  background-color: rgb(243, 153, 8);
+  border:none;
+  width:330px;
+  padding:10px 25px;
+}
+
+.by-creating{
+  font-size:12px;
+  width:251px;
+  margin:auto;
+}
+
+.buying{
+  font-size:12px;
+  width:301px;
+  margin:auto;
+}
+
+.main-sec{
+  text-align: center;
+}
+
+.hr-1{
+  width:70%;
+  opacity: 0.5;
+}
+
+.end-div{
+  text-align:center;
+}
+
+.sp-1{
+  margin-left:20px;
+  margin-right: 20px;
+  font-size: 12px;
+  color:rgb(8, 129, 205);
+}
+
+#end-p{
+  text-align: center;
+  font-size: 12px;
+}
